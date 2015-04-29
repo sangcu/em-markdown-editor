@@ -6,7 +6,7 @@ This is an ember component that support an lightweight markdown editor for ember
 
 
 * Lightweight  
-* Use as an ember-cli component
+* Use as an ember-cli add-on
 * Drop to upload images
 * Code hightlighting
 * Preview modes
