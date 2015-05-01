@@ -2,7 +2,7 @@
 
 This is an ember component that support an lightweight markdown editor for ember.js.  
 
-##Features
+## Features
 
 
 * Lightweight  
@@ -13,7 +13,7 @@ This is an ember component that support an lightweight markdown editor for ember
 * Fullscreen mode
 * Responsive layout
 
-##How to use
+## How to use
 Install as a ember-cli add-on
 
 ```js
@@ -29,7 +29,7 @@ Then, add component to your template:
   upload-adapter="controller.uploadHandler"
   }}
 ```
-##Contributions
+## Contributions
 ## Installation
 
 * `git clone` this repository
