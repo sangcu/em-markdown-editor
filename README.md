@@ -9,7 +9,7 @@ This is an ember component that support an lightweight markdown editor for ember
 * Use as an ember-cli add-on
 * Drop to upload images
 * Code hightlighting
-* Preview modes
+* Preview mode
 * Fullscreen mode
 * Responsive layout
 
@@ -17,7 +17,7 @@ This is an ember component that support an lightweight markdown editor for ember
 Install as a ember-cli add-on
 
 ```js
-ember add-on em-markdown-editor
+ember install em-markdown-editor
 ```
 Then, add component to your template:  
 ```js
@@ -29,10 +29,6 @@ Then, add component to your template:
   upload-adapter="controller.uploadHandler"
   }}
 ```
-
-#Licensing
-You can do whatever as you want.
-
 #Contributions
 ## Installation
 
