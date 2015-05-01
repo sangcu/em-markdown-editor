@@ -1,0 +1,52 @@
+.em-markdown-editor{   
+  clear:both; 
+  background:#fff;
+  border:1px solid #ddd;
+  padding:5px;
+}
+
+.em-markdown-editor.fullscreen{    
+  background:#fff;
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+.em-markdown-editor.drop-file-enter{
+   border-left: 1px solid #F51313;
+}
+.em-markdown-editor i{
+  cursor: help;
+}
+.em-markdown-edit strong{
+  display: inline-block;
+}
+.em-markdown-toolbox{
+  float:right;  
+}
+.em-markdown-editor strong{
+  display:block;  
+}
+/*Editors*/
+
+.em-markdown-editor .em-markdown-edit{
+  display: inline-block;
+  width:49%;
+}
+.em-markdown-editor .em-markdown-edit textarea{    
+  width:100%;
+  overflow:auto;
+  height: 100%;
+  resize: none;
+  border:0;
+  outline: 0;
+}
+/*Preview*/
+.em-markdown-editor .em-markdown-preview{
+  display: inline-block;
+  width:49%;
+}
+.em-markdown-output{
+  margin-left:5px;
+}
