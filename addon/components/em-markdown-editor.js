@@ -38,7 +38,7 @@ export default Ember.Component.extend({
 
     drop: function(ev) {
         ev.preventDefault();
-        this.sendAction("onUpload", ev);
+        this.sendAction("upload", ev);
         Ember.debug("you dropped something");
     },
 
