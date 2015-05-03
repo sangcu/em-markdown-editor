@@ -22,11 +22,8 @@ ember install em-markdown-editor
 Then, add component to your templates:  
 ```js
 {{em-markdown-editor
-  valueBinding="valueProperty"
-  hightlight="true"
-  preview="true"
-  autosave="true"
-  upload-adapter="controller.uploadHandler"
+  content="valueProperty"
+  upload="onUploadHandler"
   }}
 ```
 ## Contributions
