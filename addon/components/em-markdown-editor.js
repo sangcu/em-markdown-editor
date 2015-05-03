@@ -6,7 +6,7 @@ export default Ember.Component.extend({
     layout: layout,
 
 	lang: {
-        preview: "Preivew",
+        preview: "Preview",
         editor: "Editor",
         fullscreen: "Click to toggle fullscreen"
     },
