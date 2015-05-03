@@ -1,6 +1,6 @@
 # Ember Markdown Editor  
 
-This is an ember component that support an lightweight markdown editor for ember.js.  
+This is an ember component that support a lightweight markdown editor for ember.js.  
 
 ## Features
 
@@ -14,12 +14,12 @@ This is an ember component that support an lightweight markdown editor for ember
 * Responsive layout
 
 ## How to use
-Install as a ember-cli add-on
+Install as an ember-cli add-on
 
 ```js
 ember install em-markdown-editor
 ```
-Then, add component to your template:  
+Then, add component to your templates:  
 ```js
 {{em-markdown-editor
   valueBinding="valueProperty"
@@ -30,6 +30,8 @@ Then, add component to your template:
   }}
 ```
 ## Contributions
+Feel free to add a pull request or submit an issue.  
+
 ## Installation
 
 * `git clone` this repository
