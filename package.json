@@ -1,6 +1,6 @@
 {
   "name": "em-markdown-editor",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Makrdown editor component for Ember.js",
   "directories": {
     "doc": "doc",
