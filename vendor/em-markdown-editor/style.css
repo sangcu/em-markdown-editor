@@ -33,9 +33,13 @@
 .em-markdown-editor .em-markdown-edit{
   display: inline-block;
   width:49%;
+  vertical-align: top;
+  padding: 0 .5%;
+  margin-right: -.5%;
 }
 .em-markdown-editor .em-markdown-edit textarea{    
-  width:100%;
+  width:99%;
+  padding: 0 .5%;
   overflow:auto;
   height: 100%;
   resize: none;
@@ -45,8 +49,5 @@
 /*Preview*/
 .em-markdown-editor .em-markdown-preview{
   display: inline-block;
-  width:49%;
-}
-.em-markdown-output{
-  margin-left:5px;
+  width:50%;
 }
